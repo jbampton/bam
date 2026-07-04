@@ -18,9 +18,9 @@ site:
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
-  title: The Book of Bam
+  title: The Tasty Beverage
   options:
-    logo_text: The “Tasty Beverage”
+    logo_text: The Tasty Beverage
     style: ./assets/style.css
   parts:
     footer: footer.md
