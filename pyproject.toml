@@ -1,0 +1,4 @@
+[dependency-groups]
+dev = [
+    "mystmd>=1.10.1",
+]
