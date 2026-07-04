@@ -8,8 +8,19 @@ project:
   # authors: []
   github: https://github.com/jbampton/bam
   # To autogenerate a Table of Contents, run "myst init --write-toc"
+  toc:
+    - file: home.md
+    - file: tasty.md
+    - file: cross.md
+    - file: chess.md
 site:
   template: book-theme
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+  title: The Book of Bam
+  options:
+    logo_text: The “Tasty Beverage”
+    style: ./assets/style.css
+  parts:
+    footer: footer.md
