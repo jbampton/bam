@@ -1,11 +1,22 @@
 # The "Tasty Beverage"
 
+## Monday 6th July 2026
+
+- Worked most of the day on GitHub
+- Was the only person mentioned and thanked in the [Apache Lucene.NET Status Update - July 2026](https://github.com/apache/lucenenet/discussions/1401)
+
+## Sunday 5th July 2026
+
+- Set up my second MyST site hosted on Read the Docs
+- Slept most of Sunday in the daytime
+- Was powered by [Natural Confectionary](https://en.wikipedia.org/wiki/The_Natural_Confectionery_Company) Fruit Chews lollies and [Pepsi](https://en.wikipedia.org/wiki/Pepsi) soft drink
+
 ## Saturday 4th July 2026
 
-- Set up a basic myst site hosted on Read the Docs
+- Set up a basic MyST site hosted on Read the Docs
 - Had scrambled eggs on two pieces of toast for late lunch
-- Went to Coles supermarkets highlights were buying 4 liters of Dare No Added Sugar Double Espresso Iced Coffee
-- Wore my black Dr. Martens Jadon Boots
+- Went to [Coles](https://www.coles.com.au) supermarkets highlights were buying 4 liters of [Dare](https://dareicedcoffee.com.au) No Added Sugar Double Espresso Iced Coffee
+- Wore my black [Dr. Martens Jadon Boots](https://www.drmartens.com.au/shop/unisex/footwear/jadon)
 
 ## Monday June 15th, 2026
 
