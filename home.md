@@ -54,8 +54,7 @@ Where:
 :name: nba-ball
 :class: align-center
 :width: 900px
-:target: ./assets/images/parkrun.jpeg
 :alt: Out at the park with my Wilson Basketball NBA All Team Retro Basketball
 
-Out at the park with my Wilson Basketball NBA All Team Retro Basketball
+Out at the park with my Wilson NBA All Team Retro Basketball
 ```
