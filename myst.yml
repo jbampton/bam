@@ -13,6 +13,8 @@ project:
     - file: tasty.md
     - file: cross.md
     - file: chess.md
+    - file: friends.md
+    - file: bamm-bamm-rubble.md
 site:
   template: book-theme
   # options:
