@@ -36,6 +36,8 @@ Where:
 * **$\nabla L(\theta_n)$**: Feedback gradient received from GitHub Actions failures or peer reviews.
 * **$\alpha$**: Learning rate representing how quickly adjustments are adopted.
 
+Read more about [The Mechanics of Modern Optimization: Gradient Descent and Beyond](gradient-descent-algorithm.md).
+
 ## 3. The Open-Source Network Effect
 
 John's philosophy relies on public learning scaling differently than private learning, governed by a modified Metcalfe's Law:
@@ -47,6 +49,7 @@ V \propto N \cdot T
 Where:
 * **$V$**: Educational value generated.
 * **$N$**: Number of contributors, maintainers, and repositories interacted with.
+* Interaction Factor **$T$**: The frequency or depth of engagement with the network nodes.
 
 ##
 
