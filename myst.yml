@@ -10,13 +10,17 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: home.md
-    - file: tasty.md
-    - file: cross.md
-    - file: chess.md
-    - file: friends.md
-    - file: bamm-bamm-rubble.md
+    - title: The Tasty Beverage
+      children:
+        - file: tasty.md
+        - file: bamm-bamm-rubble.md
+        - file: cross.md
+        - file: friends.md
+        - file: chess.md
+    - file: gradient-descent-history.md
     - file: gradient-descent-algorithm.md
     - file: fat-loss.md
+    - file: trueskill.md
 site:
   template: book-theme
   # options:
@@ -28,3 +32,10 @@ site:
     style: ./assets/style.css
   parts:
     footer: footer.md
+  actions:
+    - title: Discord
+      url: https://discord.gg/hKUH56YHXp
+    - title: GitHub
+      url: https://github.com/jbampton
+    - title: PSN Profile
+      url: https://psnprofiles.com/RubyLightsaber

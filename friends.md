@@ -1,4 +1,4 @@
-# Good mates
+# Good Mates
 
 ## Australia
 
