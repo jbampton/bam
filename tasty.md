@@ -3,6 +3,7 @@
 ## Thursday 19th November 2026
 
 - Woke up very early in darkness and began the day watching Red Bull TV on my PlayStation 5 with some fantastic downhill mountain biking
+- My friend [Seyyed Ali](https://github.com/BaseMax) helped fix a display bug in this site
 
 ## Monday 6th July 2026
 
