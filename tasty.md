@@ -1,5 +1,13 @@
 # Another One Bites The Dust
 
+## Saturday 21st November 2026
+
+- Woke up early around 6:45am
+
+## Friday 20th November 2026
+
+- A friend came to visit and he drank 5 beers. We had toasted cheese sandwiches for lunch.
+
 ## Thursday 19th November 2026
 
 - Woke up very early in darkness and began the day watching Red Bull TV on my PlayStation 5 with some fantastic downhill mountain biking
