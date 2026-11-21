@@ -7,11 +7,12 @@
 
 ## Friday 20th November 2026
 
-- A friend came to visit and he drank 5 beers. 3 of the beers were [Victoria Bitter](https://en.wikipedia.org/wiki/Victoria_Bitter). We had toasted cheese sandwiches for lunch.
+- A friend came to visit and he drank 5 beers. 3 of the beers were [Victoria Bitter](https://en.wikipedia.org/wiki/Victoria_Bitter). We had toasted cheese sandwiches for lunch. After many channel changes on the TV we settled on [Shark Tank](https://en.wikipedia.org/wiki/Shark_Tank) with no volume.
 
 ## Thursday 19th November 2026
 
 - Woke up very early in darkness and began the day watching Red Bull TV on my PlayStation 5 with some fantastic downhill mountain biking
+- Went for a walk at midday for about 20 minutes seemed much too hot for this outdoor adventure
 - My friend [Seyyed Ali](https://github.com/BaseMax) helped fix a display bug in this site
 
 ## Monday 6th July 2026
