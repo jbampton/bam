@@ -34,6 +34,12 @@ jobs:
           BASE_URL: /${{ github.event.repository.name }}
         run: myst build --html
 
+      # MyST writes http://pre.render into these files; swap in the real Pages URL
+      - name: Fix sitemap and robots URLs
+        run: |
+          origin="https://${GITHUB_REPOSITORY_OWNER,,}.github.io/${GITHUB_REPOSITORY#*/}"
+          sed -i "s#http://pre.render#${origin}#g" _build/html/sitemap.xml _build/html/robots.txt
+
       - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:
           path: _build/html

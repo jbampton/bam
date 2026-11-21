@@ -1,3 +1,8 @@
+---
+description: "Good mates and good times, starting in Australia."
+keywords: ["friends", "Australia", "Fortnite"]
+---
+
 # Good Mates
 
 ## Australia

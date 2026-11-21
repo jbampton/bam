@@ -3,6 +3,8 @@ title: "The Mechanics of Modern Optimization: Gradient Descent and Beyond"
 subtitle: "A deep dive into first-order optimization, adaptive rates, and 20 enterprise-scale applications."
 date: 2026-07-25
 tags: [machine-learning, optimization, deep-learning, calculus, fortune-100]
+description: "A deep dive into gradient descent: first-order optimization, adaptive learning rates and 20 enterprise-scale applications."
+keywords: ["gradient descent", "optimization", "machine learning", "deep learning", "calculus"]
 ---
 
 # The Mechanics of Modern Optimization: Gradient Descent and Beyond

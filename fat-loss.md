@@ -3,6 +3,8 @@ title: "The Biophysics of Fat Loss: Applying Gradient Descent to the Human Body"
 subtitle: "Using first-order optimization formulas to engineer precise, adaptive caloric deficits."
 date: 2026-07-25
 tags: [fitness, biology, optimization, gradient-descent, metabolic-math]
+description: "Modeling fat loss as an optimization problem: applying gradient descent to adaptive caloric deficits."
+keywords: ["fat loss", "gradient descent", "metabolism", "optimization", "fitness"]
 ---
 
 # The Biophysics of Fat Loss: Applying Gradient Descent to the Human Body

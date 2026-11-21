@@ -1,3 +1,8 @@
+---
+description: "Personally recommended chess books with clear diagrams and modern layouts, plus chess terms from crossword dictionaries."
+keywords: ["chess", "chess books", "puzzles", "crossword dictionaries"]
+---
+
 # Quality Chess Books
 
 The evolution of chess literature has shifted significantly toward user-friendly design, prioritizing visualization and scannability over the dense, notation-heavy layouts of the 20th century.

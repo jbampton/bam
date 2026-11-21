@@ -1,3 +1,8 @@
+---
+description: "How Microsoft's TrueSkill Bayesian rating system matches players on Xbox, and how it compares with Elo."
+keywords: ["TrueSkill", "Xbox", "matchmaking", "Elo", "Bayesian", "skill rating"]
+---
+
 # Understanding TrueSkill: Xbox’s Revolutionary Matchmaking System
 
 In competitive multiplayer gaming, few challenges are as critical—or as difficult—as creating fair, balanced, and engaging matches. In 2005, Microsoft Research developed **TrueSkill**, a Bayesian skill-rating system designed to power matchmaking across Xbox Live. 

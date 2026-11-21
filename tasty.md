@@ -1,3 +1,8 @@
+---
+description: "A personal journal of open source work, MyST sites, puzzle books, PlayStation gaming and tasty beverages."
+keywords: ["journal", "open source", "MyST", "puzzles", "PlayStation"]
+---
+
 # Another One Bites The Dust
 
 ## Saturday 21st November 2026

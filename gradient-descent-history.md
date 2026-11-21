@@ -1,3 +1,8 @@
+---
+description: "How gradient descent grew from Cauchy's 1847 steepest descent to the Perceptron and modern machine learning."
+keywords: ["gradient descent", "history", "Cauchy", "perceptron", "machine learning", "optimization"]
+---
+
 # The History and Evolution of Gradient Descent: From Math to Machines
 Gradient descent is the mathematical engine behind modern Artificial Intelligence (AI) and machine learning. While it feels like a contemporary computing concept, its roots stretch back nearly two centuries, transitioning from hand-written astronomy equations to the first digital neural networks.
 ------------------------------

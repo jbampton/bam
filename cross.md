@@ -1,3 +1,8 @@
+---
+description: "Cryptic crossword clues with answers, arranged by difficulty level."
+keywords: ["cryptic crosswords", "crossword clues", "puzzles", "wordplay"]
+---
+
 # Cryptic Crosswords
 
 ## Open Your Mind
