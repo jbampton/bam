@@ -3,11 +3,11 @@
 ## Saturday 21st November 2026
 
 - Woke up early around 6:45am. My friend came to visit again at about 11am he played Fortnite on the PlayStation 5. We had toasted cheese sandwiches for lunch again. So last time I went shopping at [Woolworths](https://en.wikipedia.org/wiki/Woolworths_(Australia)) I bought the cheap [Woolworths brand cheese slices](https://www.woolworths.com.au/shop/productdetails/224941) for about $7.50 AUS but I find this particular cheese seems to go stale quicker. Seems this cheese or creating process is similar to the Woolworths bakery bread that normally only lasts 3 days.
-- My friend arrived with 3 bottles of 1.25 soft drink 
+- My friend arrived with 3 bottles of 1.25 litre soft drink 
 
 ## Friday 20th November 2026
 
-- A friend came to visit and he drank 5 beers. We had toasted cheese sandwiches for lunch.
+- A friend came to visit and he drank 5 beers. 3 of the beers were [Victoria Bitter](https://en.wikipedia.org/wiki/Victoria_Bitter). We had toasted cheese sandwiches for lunch.
 
 ## Thursday 19th November 2026
 
